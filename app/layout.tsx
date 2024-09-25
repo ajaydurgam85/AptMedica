@@ -12,9 +12,9 @@ const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  title: "CarePulse",
+  title: "AptMedica",
   description:
-    "A healthcare patient management System designed to streamline patient registration, appointment scheduling, and medical records management for healthcare providers.",
+    "A appointment booking management System designed to streamline patient registration, appointment scheduling, and medical records management for healthcare providers.",
   icons: {
     icon: "/assets/icons/logo-icon.svg",
   },
